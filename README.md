@@ -14,7 +14,7 @@ This project is a complete, fully-tested **TypeScript implementation of the Blun
 ---
 
 ## 📁 Project Structure
-
+```
 BLUNDER/
 │
 ├── tests/
@@ -41,7 +41,7 @@ BLUNDER/
 ├── package.json
 ├── package-lock.json
 └── README.md
-
+```
 ## 🧠 Blunder Agent Rules
 
 Blunder moves on a 2D grid and follows deterministic rules:
@@ -91,7 +91,7 @@ npm run build
 npm test
 
 npm run test:watch
-
+```
 ---
 
 Movement & priorities
