@@ -40,7 +40,7 @@ BLUNDER/
 ├── tsconfig.json
 ├── package.json
 ├── package-lock.json
-└── README.md ← (this file)
+└── README.md
 
 ## 🧠 Blunder Agent Rules
 
